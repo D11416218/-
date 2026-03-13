@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\bin\Debug\net10.0\WEEK2.exe
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\bin\Debug\net10.0\WEEK2.deps.json
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\bin\Debug\net10.0\WEEK2.runtimeconfig.json
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\bin\Debug\net10.0\WEEK2.dll
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\bin\Debug\net10.0\WEEK2.pdb
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\WEEK2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\WEEK2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\WEEK2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\WEEK2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\WEEK2.dll
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\refint\WEEK2.dll
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\WEEK2.pdb
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\WEEK2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\WEEK2\WEEK2\WEEK2\obj\Debug\net10.0\ref\WEEK2.dll
